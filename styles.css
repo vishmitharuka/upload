@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+.navbar-custom {
+    background-color: #E7FEFF;
+}
+#dropdownMenu2{
+    background-color: #E7FEFF !important;
+    color: #02050e!important;
+    border: transparent !important;
+}
+.container-home{
+    background-color: #B2E7EB;
+}
+#home-girl{
+    position: relative;
+    left: 11vw;
+    z-index: 1;
+    height: 90vh;
+}
+#home-text{
+    position: relative;
+    top: 25vh;
+}
+.display3-text-home{
+    font-weight: bold;
+    color: #2D8A4D;
+}
+.btn-custom-static{
+    background-color: #106b9f !important;
+    color: #dcd8d8 !important;
+}
